@@ -38,7 +38,7 @@ or using npm:
 
 ```bash
 npm install
-npm d
+npm dev
 ```
 
 <h3>
