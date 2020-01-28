@@ -49,7 +49,7 @@ npm dev
 
 Created a CRUD using HTTP Requests
 
-<strong color="#4FCDA5">POST !!! - </strong> To add projects and add tasks in a projetc!
+<strong color="#4FCDA5">POST - </strong> To add projects and add tasks in a projetc!
 
 <strong color="#7159c1">GET - </strong> To list all projects or list specifically one project!
 
