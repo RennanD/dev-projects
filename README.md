@@ -37,8 +37,8 @@ yarn dev
 or using npm:
 
 ```bash
-yarn install
-yarn d
+npm install
+npm d
 ```
 
 <h3>
@@ -49,26 +49,26 @@ yarn d
 
 Created a CRUD using HTTP Requests
 
-<strong style="color:#4FCDA5">POST</strong> To add projects and add tasks in a projetc!
+<strong color="#4FCDA5">POST</strong> To add projects and add tasks in a projetc!
 
-<strong style="color:#7159c1">GET</strong> To list all projects or list specifically one project!
+<strong color="#7159c1">GET</strong> To list all projects or list specifically one project!
 
-<strong style="color:#EBA023">UPDATE</strong> Update one project finded by id!
+<strong color="#EBA023">UPDATE</strong> Update one project finded by id!
 
-<strong style="color:#d34242">UPDATE</strong> Delete one project finded by id!
+<strong color="#d34242">UPDATE</strong> Delete one project finded by id!
 
 #### Middlewares
 
 Created middlewares to help in requests.
 
+Find if a project exists:
+
 ```js
 checkProject();
 ```
 
-Find if a project exists.
+Find if exists project with same id:
 
 ```js
 checkExists();
 ```
-
-Find if exists project with same id.
